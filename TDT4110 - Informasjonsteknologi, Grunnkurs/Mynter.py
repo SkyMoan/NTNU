@@ -8,7 +8,8 @@ def count_coins(coins):
     return total
 
 
-liste = [12, 23, 34, 45]
+
+liste = [63,55]
 
 def numCoins(lst):
     newlst = []
