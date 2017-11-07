@@ -1,3 +1,6 @@
 For å gjøre remote lik local rep:
 git commit -a -m "message"
 git push
+
+For å fjerne irriterende deleted: 
+git add -u
