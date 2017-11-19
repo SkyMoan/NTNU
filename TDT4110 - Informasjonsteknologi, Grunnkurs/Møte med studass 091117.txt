@@ -1,0 +1,16 @@
+Gikk gjennom brukerhistoriene vi har klart å fullføre
+Vise frem brukerhistorer vi fikk fullført på neste demo
+
+
+teknisk og ikke teknisk manual
+
+Dokumentasjon:
+Tre deler: 
+javadocs eller skrive noen setninger eller om ord de viktigiste filene eller metodene i programmet(litt som forventet i et rammeverk, de viktigste metodene)
+Klassediagram? Bilde av mappestruktur
+
+Neste demo er helt lik den forrige bare minus de gamle brukerhistoriene
+og pluss de nye
+
+Send rapport til Johan på tirsdag > får den tilbake slik at vi kan fikse på ting før innlevering onsdag.
+
